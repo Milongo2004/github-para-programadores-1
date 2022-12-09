@@ -2,5 +2,5 @@
 
 Prueba de repositorio
 
-(https://proyectorfidmasterdent.000webhostapp.com/control)
+Ejercicio del curso de Linkedin Github para programadores
 
